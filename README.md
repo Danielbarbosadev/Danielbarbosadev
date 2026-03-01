@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Me+chamo+Daniel+Barbosa!)](https://git.io/typing-svg)
 
-<h2 align="left">🔗Sobre mim</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
