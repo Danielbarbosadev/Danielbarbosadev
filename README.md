@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=62F7F7&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Me+chamo+Daniel+Barbosa!)](https://git.io/typing-svg)
 
+###
+
+<div align="center">
+<img height="200" src="https://imgur.com/gallery/animated-pixel-art-that-soothes-soul-8a66g#yICY8wI"  />
+</div>
+
 <h2 align="left">Sobre mim</h2>
 
 ###
