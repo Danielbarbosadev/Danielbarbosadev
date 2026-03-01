@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-<img height="200" src="https://imgur.com/gallery/animated-pixel-art-that-soothes-soul-8a66g#yICY8wI"  />
+<img height="200" src="https://i.imgur.com/yICY8wI.gif  />
 </div>
 
 <h2 align="left">Sobre mim</h2>
