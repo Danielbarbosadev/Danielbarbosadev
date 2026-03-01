@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-<img height="200" width="250" src="https://i.imgur.com/yICY8wI.gif"/>
+<img height="200" width="250" src="https://i.imgur.com/KWOCy9U.gif"/>
 </div>
 
 <h2 align="left">Sobre mim</h2>
@@ -47,7 +47,7 @@
 </div>
 
 ### 
-
+<h2>Contato</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/daniel-barbosa-2992583b1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
